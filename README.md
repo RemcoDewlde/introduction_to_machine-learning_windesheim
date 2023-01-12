@@ -15,4 +15,4 @@ De dataset bestaat uit twee csv bestanden die afkomsting zijn van Kaggle. De dat
 Link: [dataset Kaggle](https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb)
 
 ## Tests
-Random forrest heeft een aantal variablen zoals `max_depth`, `test_size` en `n_estimators`. Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `random-forrest.ipynb` bestand.
+Random forest heeft een aantal variablen zoals `max_depth`, `test_size` en `n_estimators`. Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `random-forrest.ipynb` bestand.
