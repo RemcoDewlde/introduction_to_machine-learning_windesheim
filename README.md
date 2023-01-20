@@ -14,5 +14,20 @@ Het idee is om aan de hand van een aantal waarden in een csv bestand te kunnen v
 De dataset bestaat uit twee csv bestanden die afkomsting zijn van Kaggle. De data zou afkomsting moeten zijn van het Amerikaanse Entertainment Software Rating Board.
 Link: [dataset Kaggle](https://www.kaggle.com/datasets/imohtn/video-games-rating-by-esrb)
 
-## Tests
+# Classifiers
+Bij het maken is gebruik gemaakt van een aantal classifiers. Deze zijn allemaal te vinden in naam bijpassende map.
+Bij elk van de classifiers is er aan het eind van de notebook een rapport gegenereerd. Aan de hand van deze rapporten zal het mogelijk zijn om te bepalen welke classifier het beste werkt. 
+
+## Random Forest
 Random forest heeft een aantal variablen zoals `max_depth`, `test_size` en `n_estimators`. Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `random-forest.ipynb` bestand.
+## k-NN
+
+## Decision tree
+
+## Support Vector Machine
+
+
+## Ensamble Voting Classifier
+
+
+
