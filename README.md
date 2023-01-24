@@ -19,15 +19,16 @@ Bij het maken is gebruik gemaakt van een aantal classifiers. Deze zijn allemaal 
 Bij elk van de classifiers is er aan het eind van de notebook een rapport gegenereerd. Aan de hand van deze rapporten zal het mogelijk zijn om te bepalen welke classifier het beste werkt. 
 
 ## Random Forest
-Random forest heeft een aantal variablen zoals `max_depth`, `test_size` en `n_estimators`. Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `random-forest.ipynb` bestand.
+Random forest heeft een aantal variablen zoals `max_depth`, `test_size` en `n_estimators`. Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `radnom_forest/random-forest.ipynb` bestand.
 ## k-NN
-
+k-NN heeft een aantal variablen Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen. De bevindingen uit deze testen zijn gebruikt in het `machine_learning` bestand.
 ## Decision tree
+Decision tree heeft een aantal variablen Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen.
 
 ## Support Vector Machine
-
+Support Vector Machine heeft een aantal variablen Om goede waarde voor deze variablen te gebruiken zijn verschillende testen opgezet om dit te bepalen.
 
 ## Ensamble Voting Classifier
-
+De bovenstaande classifiers zijn gebruikt om een ensamble voting classifier te maken. Deze classifier is opgezet met alle ideaale variablen van de bovenstaande classifiers.
 
 
